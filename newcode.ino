@@ -1,8 +1,6 @@
 /**
- * A BLE client example that is rich in capabilities.
- * There is a lot new capabilities implemented.
- * author unknown
- * updated by chegewara
+ * A BLE client (used on an ESP32 board) for receieving signals from a bicycle pedal sensor.
+ * Part of 4th Year Mechanical Engineering Project
  */
 
 #include "BLEDevice.h"
